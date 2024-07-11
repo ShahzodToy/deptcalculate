@@ -1,0 +1,3 @@
+#Project for dept 
+1. Sozlamalarni olish va o’zgartirish uchun: /api/settings/
+ - change currency, notification time, 
